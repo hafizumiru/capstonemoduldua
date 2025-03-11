@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+capstonemoduldua/
 
 # Spyder project settings
 .spyderproject
